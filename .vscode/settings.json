@@ -1,0 +1,44 @@
+{
+  "nuxt.isNuxtApp": false,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editor.highlightModifiedTabs": true,
+  "window.zoomLevel": 2,
+  "explorer.confirmDelete": false,
+  "workbench.tree.indent": 16,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.tabSize": 2,
+  "editor.lineHeight": 26,
+  "explorer.confirmDragAndDrop": false,
+  "editor.fontSize": 15,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+
+  "[vue]": {
+   "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[html]": {
+   "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[javascript]": {
+   "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[typescript]": {
+   "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[css]": {
+  "editor.suggest.insertMode": "replace"
+},
+"editor.codeActionsOnSave": {
+  "source.fixAll": true,
+  "sourec.sortImports":true
+},
+  "editor.cursorBlinking": "smooth",
+  "editor.fontFamily": "'JetBrains Mono','Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "sync.gist": "",
+  "sync.autoUpload": true,
+  "sync.autoDownload": true,
+  "sync.removeExtensions": false
+}
